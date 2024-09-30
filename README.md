@@ -82,10 +82,7 @@ Liberty Café, an expanding chain with three locations across New York City, has
 
 ## Tools Used
 
-Microsoft Excel (for data analysis and dashboard creation)
-Pivot Tables and Charts
-Slicers for data filtering
-Combo charts and other visualization tools
+Microsoft Excel
 
 
 ## Conclusion
